@@ -1,0 +1,6 @@
+[submodule "TechRevamp-Backend"]
+	path = TechRevamp-Backend
+	url = https://github.com/NikkiDev97/TechRevamp-Backend.git
+[submodule "TechRevamp-Frontend"]
+	path = TechRevamp-Frontend
+	url = https://github.com/NikkiDev97/TechRevamp-Frontend.git
